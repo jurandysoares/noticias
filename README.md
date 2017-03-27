@@ -1,5 +1,7 @@
 # Notícias
 
+* [SUAP Mobile: versão para plataformas móveis é disponibilizada](http://portal.ifrn.edu.br/campus/reitoria/noticias/suap-mobile-versao-para-plataformas-moveis-e-disponibilizada)
+* [DIGTI cria interface que auxilia o desenvolvimento de sistemas e aplicativos](http://portal.ifrn.edu.br/campus/reitoria/noticias/digti-cria-interface-que-auxilia-o-desenvolvimento-de-aplicativos)
 * [Via Estadão: Será 2017 o ano das moedas virtuais?](http://link.estadao.com.br/blogs/seu-bolso-na-era-digital/sera-2017-o-ano-das-moedas-virtuais/)
 * [Meet the Artist Using Ritual Magic to Trap Self-Driving Cars](https://creators.vice.com/en_us/article/meet-the-artist-using-ritual-magic-to-trap-self-driving-cars) 
 * [How Much Is That Data Breach Really Costing Your Business? How formatting a spreadsheet turned into a headache for 36,000 Boeing employees](http://www.inc.com/heather-wilde/how-much-is-that-data-breach-really-costing-your-business.html)
