@@ -1,5 +1,6 @@
 # Notícias
 
+* [Microsoft corrigiu problema que atrasava o OneDrive no Linux](http://bit.ly/2nUHH39)
 * [SUAP Mobile: versão para plataformas móveis é disponibilizada](http://portal.ifrn.edu.br/campus/reitoria/noticias/suap-mobile-versao-para-plataformas-moveis-e-disponibilizada)
 * [DIGTI cria interface que auxilia o desenvolvimento de sistemas e aplicativos](http://portal.ifrn.edu.br/campus/reitoria/noticias/digti-cria-interface-que-auxilia-o-desenvolvimento-de-aplicativos)
 * [Via Estadão: Será 2017 o ano das moedas virtuais?](http://link.estadao.com.br/blogs/seu-bolso-na-era-digital/sera-2017-o-ano-das-moedas-virtuais/)
