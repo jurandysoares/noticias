@@ -1,5 +1,6 @@
-# Notícias
+# Notícias e links
 
+* [Why you don&#039;t need to run SSHd in your Docker containers](http://dockr.ly/2f3EMOD)
 * [Microsoft corrigiu problema que atrasava o OneDrive no Linux](http://bit.ly/2nUHH39)
 * [SUAP Mobile: versão para plataformas móveis é disponibilizada](http://portal.ifrn.edu.br/campus/reitoria/noticias/suap-mobile-versao-para-plataformas-moveis-e-disponibilizada)
 * [DIGTI cria interface que auxilia o desenvolvimento de sistemas e aplicativos](http://portal.ifrn.edu.br/campus/reitoria/noticias/digti-cria-interface-que-auxilia-o-desenvolvimento-de-aplicativos)
