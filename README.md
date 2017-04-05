@@ -1,5 +1,6 @@
 # Notícias e links
 
+* [Bolstering security across Google Cloud](https://www.blog.google/topics/google-cloud/bolstering-security-across-google-cloud/)
 * [Why you don&#039;t need to run SSHd in your Docker containers](http://dockr.ly/2f3EMOD)
 * [Microsoft corrigiu problema que atrasava o OneDrive no Linux](http://bit.ly/2nUHH39)
 * [SUAP Mobile: versão para plataformas móveis é disponibilizada](http://portal.ifrn.edu.br/campus/reitoria/noticias/suap-mobile-versao-para-plataformas-moveis-e-disponibilizada)
